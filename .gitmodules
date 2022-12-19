@@ -1,0 +1,8 @@
+[submodule "gitlab/na_custom_crm_fields"]
+	path = gitlab/na_custom_crm_fields
+	url = git@gitlab.com:nexapp-srl/odoo/na_custom_crm_fields.git
+	branch = 16.0
+[submodule "gitlab/na_custom_contact_fields"]
+	path = gitlab/na_custom_contact_fields
+	url = git@gitlab.com:nexapp-srl/odoo/na_custom_contact_fields.git
+	branch = 16.0
