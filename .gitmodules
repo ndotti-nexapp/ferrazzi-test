@@ -6,3 +6,7 @@
 	path = gitlab/na_custom_contact_fields
 	url = git@gitlab.com:nexapp-srl/odoo/na_custom_contact_fields.git
 	branch = 16.0
+[submodule "gitlab/na_crm_contact_documents"]
+	path = gitlab/na_crm_contact_documents
+	url = git@gitlab.com:nexapp-srl/odoo/na_crm_contact_documents.git
+	branch = 16.0
